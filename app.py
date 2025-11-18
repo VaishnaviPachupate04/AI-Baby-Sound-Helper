@@ -62,7 +62,7 @@ st.markdown("""
         👶 AI Baby Sound Helper
     </h1>
     <p style='font-size: 20px; color: #666; margin-bottom: 8px;'>💬 Intelligent Baby Cry Analysis</p>
-    <p style='font-size: 14px; color: #999;'>Powered by CrewAI & Gemini • Safe & Non-Medical ❤️</p>
+    <p style='font-size: 14px; color: #999;'>Made by Vaishnavi Pachupate • Safe & Non-Medical ❤️</p>
     <div style='margin-top: 20px;'>
         <span style='display: inline-block; background: rgba(255, 107, 157, 0.1); padding: 8px 16px; border-radius: 20px; color: #FF6B9D; font-size: 13px; font-weight: 600;'>
             ✨ Your Personal Caregiver Assistant
