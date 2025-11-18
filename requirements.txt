@@ -1,0 +1,7 @@
+crewai
+litellm
+google-genai
+numpy
+soundfile
+streamlit
+python-dotenv
